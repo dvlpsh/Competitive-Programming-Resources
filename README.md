@@ -1,7 +1,7 @@
 # CP-Resources
 
 ## Archives ##
-- [http://e-maxx.ru/algo/](http://e-maxx.ru/algo/) (Ensure to make use of google translate, I used [https://addons.mozilla.org/en-US/firefox/addon/imtranslator/](this) Mozilla Add-on which translates the entire page.)
+- [http://e-maxx.ru/algo/](http://e-maxx.ru/algo/) (Ensure to make use of google translate, I used [this](https://addons.mozilla.org/en-US/firefox/addon/imtranslator/) Mozilla Add-on which translates the entire page.)
 - [https://cp-algorithms.com](https://cp-algorithms.com) is the English translated version of the above.
 - [https://www.geeksforgeeks.org/category/competitive-programming/](https://www.geeksforgeeks.org/category/competitive-programming/)
 
