@@ -1,5 +1,11 @@
 # CP-Resources
 
+## Archives ##
+- [http://e-maxx.ru/algo/](http://e-maxx.ru/algo/) (Ensure to make use of google translate, I used [https://addons.mozilla.org/en-US/firefox/addon/imtranslator/](this) Mozilla Add-on which translates the entire page.)
+- [https://cp-algorithms.com](https://cp-algorithms.com) is the English translated version of the above.
+- [https://www.geeksforgeeks.org/category/competitive-programming/](https://www.geeksforgeeks.org/category/competitive-programming/)
+
+
 ## 1. Prime Factorisation:  ##
 - [This](https://stackoverflow.com/a/50278321/10400627) answer on Stack Overflow.
 - [Sieve of Eratosthenes](https://www.geeksforgeeks.org/sieve-of-eratosthenes/) for basic optimisation.  
