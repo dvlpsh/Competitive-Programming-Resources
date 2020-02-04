@@ -11,6 +11,7 @@
 - [All the good tutorials found for Competitive Programming ](https://codeforces.com/blog/entry/57282)
 - [Good Blog Post Resources about Algorithm and Data Structures ](https://codeforces.com/blog/entry/13529)
 - [Must checkout Resources](https://codeforces.com/blog/entry/44991)
+- [List of topics](https://www.geeksforgeeks.org/fundamentals-of-algorithms/) on Geeksforgeeks
 
 
 ## Prime Factorisation:  ##
@@ -28,6 +29,7 @@
 
 ## Dynamic Programming: ##
 - [DP Tutorial and Problem List](https://codeforces.com/blog/entry/67679)
+- [This](https://www.geeksforgeeks.org/dynamic-programming/) list of problems in Geeksforgeeks
 
 ## Bit-wise ##
 - [Bitwise operations for beginners](https://codeforces.com/blog/entry/73490)
