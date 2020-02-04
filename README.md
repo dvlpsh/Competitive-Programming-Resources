@@ -28,3 +28,8 @@
 
 ## Dynamic Programming: ##
 - [DP Tutorial and Problem List](https://codeforces.com/blog/entry/67679)
+
+## Bit-wise ##
+- [Bitwise operations for beginners](https://codeforces.com/blog/entry/73490)
+- [Bitwise operations 2 — popcount & bitsets](https://codeforces.com/blog/entry/73558)
+
