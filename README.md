@@ -1,4 +1,4 @@
-# CP-Resources
+# Competitive-Programming-Resources
 
 ## Archives ##
 - [http://e-maxx.ru/algo/](http://e-maxx.ru/algo/) (Ensure to make use of google translate, I used [this](https://addons.mozilla.org/en-US/firefox/addon/imtranslator/) Mozilla Add-on which translates the entire page.)
