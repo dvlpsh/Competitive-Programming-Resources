@@ -35,3 +35,6 @@
 - [Bitwise operations for beginners](https://codeforces.com/blog/entry/73490)
 - [Bitwise operations 2 — popcount & bitsets](https://codeforces.com/blog/entry/73558)
 
+## General ##
+- [Sort a hashmap according to values (Java)](https://stackoverflow.com/a/13913206/10400627)
+
