@@ -1,6 +1,7 @@
 # Competitive-Programming-Resources
 
 ## Archives ##
+- Sort according to Codeforces Div1,2,3 contest using [https://surya1231.github.io/Codeforces-contest/](this) site.
 - [http://e-maxx.ru/algo/](http://e-maxx.ru/algo/) (Ensure to make use of google translate, I used [this](https://addons.mozilla.org/en-US/firefox/addon/imtranslator/) Mozilla Add-on which translates the entire page.)
 - [https://cp-algorithms.com](https://cp-algorithms.com) is the English translated version of the above.
 - [https://www.geeksforgeeks.org/category/competitive-programming/](https://www.geeksforgeeks.org/category/competitive-programming/)
