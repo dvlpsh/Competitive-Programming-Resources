@@ -1,8 +1,7 @@
 # Competitive-Programming-Resources
 
 ## Archives ##
-- [Codeforces Practice Tracker](https://surya1231.github.io/Codeforces-contest/)
-- [AtCoder Practice Tracker](https://kenkoooo.com/atcoder#/table//)
+
 - [http://e-maxx.ru/algo/](http://e-maxx.ru/algo/) (Ensure to make use of google translate, I used [this](https://addons.mozilla.org/en-US/firefox/addon/imtranslator/) Mozilla Add-on which translates the entire page.)
 - [https://cp-algorithms.com](https://cp-algorithms.com) is the English translated version of the above.
 - [https://www.geeksforgeeks.org/category/competitive-programming/](https://www.geeksforgeeks.org/category/competitive-programming/)
@@ -14,6 +13,13 @@
 - [Good Blog Post Resources about Algorithm and Data Structures ](https://codeforces.com/blog/entry/13529)
 - [Must checkout Resources](https://codeforces.com/blog/entry/44991)
 - [List of topics](https://www.geeksforgeeks.org/fundamentals-of-algorithms/) on Geeksforgeeks
+
+## How to practice ##
+
+- [https://codeforces.com/blog/entry/66909](this blog) and https://drive.google.com/file/d/1J2x8pIYQ3MXANgvzOgBciWd3d79j_Exa/view[](this document)
+- [Codeforces Practice Tracker](https://surya1231.github.io/Codeforces-contest/)
+- [AtCoder Practice Tracker](https://kenkoooo.com/atcoder#/table//)
+
 
 ## Why 10^9+7 modulo is required ##
 - [https://www.youtube.com/watch?v=-OPohCQqi_E](This) video by Errichto
