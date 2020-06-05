@@ -16,13 +16,13 @@
 
 ## How to practice ##
 
-- [https://codeforces.com/blog/entry/66909](this blog) and https://drive.google.com/file/d/1J2x8pIYQ3MXANgvzOgBciWd3d79j_Exa/view[](this document)
+- [This blog ](https://codeforces.com/blog/entry/66909) and [this document](https://drive.google.com/file/d/1J2x8pIYQ3MXANgvzOgBciWd3d79j_Exa/view)
 - [Codeforces Practice Tracker](https://surya1231.github.io/Codeforces-contest/)
 - [AtCoder Practice Tracker](https://kenkoooo.com/atcoder#/table//)
 
 
 ## Why 10^9+7 modulo is required ##
-- [https://www.youtube.com/watch?v=-OPohCQqi_E](This) video by Errichto
+-[This](https://www.youtube.com/watch?v=-OPohCQqi_E) video by Errichto
 
 ## Prime Factorisation:  ##
 - [This](https://stackoverflow.com/a/50278321/10400627) answer on Stack Overflow.
