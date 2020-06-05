@@ -1,7 +1,8 @@
 # Competitive-Programming-Resources
 
 ## Archives ##
-- Sort according to Codeforces Div1,2,3 contest using [this](https://surya1231.github.io/Codeforces-contest/) site.
+- [Codeforces Practice Tracker](https://surya1231.github.io/Codeforces-contest/)
+- [AtCoder Practice Tracker](https://kenkoooo.com/atcoder#/table//)
 - [http://e-maxx.ru/algo/](http://e-maxx.ru/algo/) (Ensure to make use of google translate, I used [this](https://addons.mozilla.org/en-US/firefox/addon/imtranslator/) Mozilla Add-on which translates the entire page.)
 - [https://cp-algorithms.com](https://cp-algorithms.com) is the English translated version of the above.
 - [https://www.geeksforgeeks.org/category/competitive-programming/](https://www.geeksforgeeks.org/category/competitive-programming/)
@@ -14,6 +15,8 @@
 - [Must checkout Resources](https://codeforces.com/blog/entry/44991)
 - [List of topics](https://www.geeksforgeeks.org/fundamentals-of-algorithms/) on Geeksforgeeks
 
+## Why 10^9+7 modulo is required ##
+- [https://www.youtube.com/watch?v=-OPohCQqi_E](This) video by Errichto
 
 ## Prime Factorisation:  ##
 - [This](https://stackoverflow.com/a/50278321/10400627) answer on Stack Overflow.
