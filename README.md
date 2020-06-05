@@ -22,7 +22,7 @@
 
 
 ## Why 10^9+7 modulo is required ##
--[This](https://www.youtube.com/watch?v=-OPohCQqi_E) video by Errichto
+- [This](https://www.youtube.com/watch?v=-OPohCQqi_E) video by Errichto
 
 ## Prime Factorisation:  ##
 - [This](https://stackoverflow.com/a/50278321/10400627) answer on Stack Overflow.
